@@ -71,3 +71,16 @@ entropy_analysis.png
 # API keys (safety)
 *_key.txt
 credentials.json
+
+# Internal work files (NOT for public repo)
+*SUMMARY*.md
+*summary*.md
+*internal*.md
+*INTERNAL*.md
+*temp*.md
+*draft*.md
+*DRAFT*.md
+*TODO*.md
+.cursor/
+*.backup
+*.bak
