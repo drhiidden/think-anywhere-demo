@@ -15,6 +15,10 @@ Current LLMs reason statically—generating all reasoning upfront (Chain-of-Thou
 - +7-15% accuracy on code benchmarks (HumanEval, MBPP)
 - Adaptive reasoning based on real-time uncertainty
 
+**Original Research**:
+- 📄 **Paper**: [Think Anywhere on arXiv](https://arxiv.org/pdf/2603.29957)
+- 🎥 **Video Explanation**: [YouTube](https://www.youtube.com/watch?v=wXGUiMfgL18)
+
 ## Table of Contents
 
 - [Background](#background)
@@ -589,8 +593,17 @@ The full Think Anywhere system uses:
 
 *Current implementation uses prompt engineering for compatibility with existing APIs*
 
+### Original Paper
+
+**Think Anywhere** is based on the research paper:
+
+📄 **Paper**: [Think Anywhere: Dynamic Reasoning in Large Language Models](https://arxiv.org/pdf/2603.29957)
+
+🎥 **Video Explanation**: [Think Anywhere - YouTube Presentation](https://www.youtube.com/watch?v=wXGUiMfgL18)
+
 ### Related Work
 
+- **Think Anywhere Original Paper** (arXiv:2603.29957)
 - **Chain-of-Thought Prompting** (Wei et al., 2022)
 - **Interleaved Thinking** (Various, 2023)
 - **Self-Consistency** (Wang et al., 2022)
@@ -647,15 +660,29 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## Citation
 
-If you use Think Anywhere in your research, please cite:
+If you use Think Anywhere in your research, please cite the original paper:
 
 ```bibtex
 @misc{thinkanywhere2024,
   title={Think Anywhere: Dynamic Reasoning in Large Language Models},
-  author={Hidden, Dr.},
+  author={Original Authors},
   year={2024},
-  howpublished={\url{https://github.com/drhidden/think-anywhere}},
-  note={Implementation of entropy-based dynamic reasoning for LLMs}
+  eprint={2603.29957},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/pdf/2603.29957}
+}
+```
+
+For this implementation:
+
+```bibtex
+@misc{thinkanywhere_impl2026,
+  title={Think Anywhere: Implementation with Educational Resources},
+  author={Hidden, Dr.},
+  year={2026},
+  howpublished={\url{https://github.com/drhidden/think-anywhere-demo}},
+  note={Open-source implementation with visual guides and tutorials}
 }
 ```
 

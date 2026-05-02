@@ -8,6 +8,15 @@
 
 Implementación de la técnica "Think Anywhere" para razonamiento dinámico en Modelos de Lenguaje durante la generación de código.
 
+**Resultados Clave**:
+- -30% uso de tokens
+- +7-15% precisión en benchmarks de código (HumanEval, MBPP)
+- Razonamiento adaptativo basado en incertidumbre en tiempo real
+
+**Investigación Original**:
+- 📄 **Paper**: [Think Anywhere en arXiv](https://arxiv.org/pdf/2603.29957)
+- 🎥 **Video Explicativo**: [YouTube](https://www.youtube.com/watch?v=wXGUiMfgL18)
+
 ## 📚 Tabla de Contenidos
 
 - [El Problema](#-el-problema)

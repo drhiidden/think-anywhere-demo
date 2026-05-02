@@ -2,6 +2,10 @@
 
 ## Connection to Think Anywhere
 
+**Original Think Anywhere Research**:
+- 📄 **Paper**: [Think Anywhere on arXiv](https://arxiv.org/pdf/2603.29957) (arXiv:2603.29957)
+- 🎥 **Video Explanation**: [YouTube Presentation](https://www.youtube.com/watch?v=wXGUiMfgL18)
+
 The **Think Anywhere** project builds upon and complements earlier research in dynamic reasoning and entropy-based decision-making, including:
 
 ### trm-lab-XS (Two-State Recursive Model)
