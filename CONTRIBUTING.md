@@ -185,7 +185,11 @@ If you're conducting research using Think Anywhere:
 1. **Share findings**: Open issues or discussions
 2. **Propose improvements**: Based on empirical results
 3. **Contribute benchmarks**: New evaluation datasets
-4. **Publish**: Please cite the project in papers
+4. **Publish**: Please cite the original paper and this implementation
+
+**Original Research**:
+- 📄 Paper: [Think Anywhere on arXiv](https://arxiv.org/pdf/2603.29957) (arXiv:2603.29957)
+- 🎥 Video: [YouTube Presentation](https://www.youtube.com/watch?v=wXGUiMfgL18)
 
 ## Questions?
 
