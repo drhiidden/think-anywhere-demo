@@ -4,6 +4,8 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+![Think Anywhere - Dynamic Reasoning](docs/images/think-anywhere-hero.png)
+
 Implementation of the "Think Anywhere" technique for dynamic reasoning in Large Language Models during code generation.
 
 ## Abstract
@@ -284,6 +286,8 @@ def quicksort(arr):
 ```
 
 ## Architecture
+
+![Training Pipeline: from special tokens to GRPO reinforcement](docs/images/think-anywhere-pipeline.png)
 
 ### System Components
 
