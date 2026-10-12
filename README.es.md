@@ -9,6 +9,8 @@
 
 ![Think Anywhere - Razonamiento Dinámico](docs/images/think-anywhere-hero.png)
 
+> **Interpretación visual (arte digital HHP).** Esta imagen es una **metáfora ilustrativa** de las pausas `<THINK>` activadas por entropía durante la generación de código—no es salida del modelo ni mediciones de benchmark. Concepto alineado con el README y [arXiv:2603.29957](https://arxiv.org/abs/2603.29957). Proceso: [HHP](https://github.com/haletheia/human-code-ai-protocol) · skill [*project-to-art*](https://github.com/drhiidden/hcp-skills/tree/main/execution/05-documentation/content/project-to-art) (concepto → prompt → generador externo). Parte de una **galería abierta de arte digital de proyectos** de investigación.
+
 Implementación de la técnica "Think Anywhere" para razonamiento dinámico en Modelos de Lenguaje durante la generación de código.
 
 **Resultados Clave**:
