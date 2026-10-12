@@ -9,6 +9,8 @@
 
 ![Think Anywhere - Dynamic Reasoning](docs/images/think-anywhere-hero.png)
 
+> **Visual interpretation (HHP digital art).** This image is an **illustrative metaphor** for entropy-triggered `<THINK>` pauses during code generation—not runtime model output or benchmark measurements. The concept follows this repository’s README and [arXiv:2603.29957](https://arxiv.org/abs/2603.29957). Created with the [Human Harness Protocol (HHP)](https://github.com/haletheia/human-code-ai-protocol) [*project-to-art*](https://github.com/drhiidden/hcp-skills/tree/main/execution/05-documentation/content/project-to-art) workflow (structured concept → prompt → external image generator). Part of an open **digital project art gallery**: interpretive visuals for research code.
+
 Implementation of the "Think Anywhere" technique for dynamic reasoning in Large Language Models during code generation.
 
 ## Abstract
