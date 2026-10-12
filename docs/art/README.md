@@ -21,6 +21,6 @@ Companion for **entropy-triggered dynamic reasoning** in LLMs (see root README a
 | Thresholds τ, claims (−30% tokens, +7–15% accuracy) | Cited from README/paper — not re-run in the artwork |
 | Animation | Simulation / metaphor |
 
-Existing hero: `docs/images/think-anywhere-hero.png` (static); loop video = separate asset under `docs/art/` when produced.
+Static hero image: `docs/images/think-anywhere-hero.png`. Planned loop video will live under `docs/art/` when produced.
 
-Full curatorial draft (maintainer hub): HALETHEIA Domain-CreatorContent `05-media/project-art/think-anywhere-demo-art-ficha.md`.
+This page is **self-contained** for visitors; extended production notes stay with the maintainers and are not linked from here.
